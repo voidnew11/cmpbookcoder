@@ -1,4 +1,4 @@
-package cmpbookcoder;
+package cmpbookcoder.datastruct;
 /*用数组实现栈*/
 import java.util.Arrays;
 public class MyStack<E> {

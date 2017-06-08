@@ -1,7 +1,7 @@
 /**
  * 用链表的方式实现栈
  */
-package cmpbookcoder;
+package cmpbookcoder.datastruct;
 
 public class MyStackL<E> {
        class Node<E>{

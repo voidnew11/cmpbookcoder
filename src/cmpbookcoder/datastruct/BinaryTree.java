@@ -1,4 +1,4 @@
-package cmpbookcoder;
+package cmpbookcoder.datastruct;
 import java.util.*;
 /* Java 实现排序二叉树的前序、中序、后序遍历
  * 递归版本*/

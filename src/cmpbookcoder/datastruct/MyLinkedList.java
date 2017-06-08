@@ -1,4 +1,4 @@
-package cmpbookcoder;
+package cmpbookcoder.datastruct;
 import java.util.*;
 
 public class MyLinkedList  {
